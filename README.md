@@ -27,9 +27,9 @@ O projeto conta com **frontend (React + Tailwind)** e **backend (Express + Multe
 
 ## ⚙️ Como Rodar o Projeto
 
-### 🔹 1. Clonar o repositório
-
 ```bash
+🔹 1. Clonar o repositório
+
 git clone https://github.com/seu-usuario/planettech-chat.git
 cd planettech-chat
 🔹 2. Instalar dependências
@@ -58,28 +58,27 @@ O frontend será executado em:
 
 ```
 
-### 🧠 Funcionalidades
+## 🧠 Funcionalidades
 
-✅ Autenticação simples via localStorage
-✅ Envio de mensagens de texto
-✅ Upload de imagens (JPG, PNG)
-✅ Gravação e envio de áudios (WebM)
-✅ Preview de arquivos antes do envio
-✅ Exibição de timestamp formatado
-✅ Layout 100% responsivo (mobile e desktop)
-✅ Context API para gerenciamento global de estado
+- ✅ Autenticação simples via localStorage
+- ✅ Envio de mensagens de texto
+- ✅ Upload de imagens (JPG, PNG)
+- ✅ Gravação e envio de áudios (WebM)
+- ✅ Preview de arquivos antes do envio
+- ✅ Exibição de timestamp formatado
+- ✅ Layout 100% responsivo (mobile e desktop)
+- ✅ Context API para gerenciamento global de estado
 
-📱 Layout Responsivo
-Sidebar adaptada para dispositivos móveis
+## 📱 Layout Responsivo
 
-Barra superior com menu interativo em telas pequenas
+- Sidebar adaptada para dispositivos móveis
+- Barra superior com menu interativo em telas pequenas
+- Área de chat otimizada para leitura e envio fluído de mensagens
 
-Área de chat otimizada para leitura e envio fluído de mensagens
+## 🧑‍💻 Autor
+- Simon Franklin
+- Desenvolvedor Front-end
 
-🧑‍💻 Autor
-Simon Franklin
-Desenvolvedor Front-end
-
-📝 Licença
-Este projeto é de uso livre para fins de estudo e demonstração de habilidades técnicas.
-© 2025 - Desenvolvido por Simon Franklin
+## 📝 Licença
+- Este projeto é de uso livre para fins de estudo e demonstração de habilidades técnicas.
+- © 2025 - Desenvolvido por Simon Franklin
