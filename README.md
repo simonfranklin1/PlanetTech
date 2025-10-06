@@ -32,7 +32,9 @@ O projeto conta com **frontend (React + Tailwind)** e **backend (Express + Multe
 
 git clone https://github.com/seu-usuario/planettech-chat.git
 cd planettech-chat
+
 🔹 2. Instalar dependências
+
 Frontend:
 
 cd frontend
@@ -41,7 +43,9 @@ Backend:
 
 cd backend
 npm install
+
 🔹 3. Executar o projeto
+
 Iniciar o servidor (Backend)
 
 cd backend
