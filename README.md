@@ -34,18 +34,15 @@ git clone https://github.com/seu-usuario/planettech-chat.git
 cd planettech-chat
 🔹 2. Instalar dependências
 Frontend:
-bash
 
 cd frontend
 npm install
 Backend:
-bash
 
 cd backend
 npm install
 🔹 3. Executar o projeto
 Iniciar o servidor (Backend)
-bash
 
 cd backend
 npm run dev
@@ -53,7 +50,6 @@ O backend será executado em:
 📡 http://localhost:3000
 
 Iniciar o cliente (Frontend)
-bash
 
 cd frontend
 npm run dev
