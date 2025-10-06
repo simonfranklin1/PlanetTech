@@ -25,32 +25,6 @@ O projeto conta com **frontend (React + Tailwind)** e **backend (Express + Multe
 
 ---
 
-## 🧩 Estrutura do Projeto
-
-📦 projeto/
-├── backend/
-│ ├── server.js
-│ ├── uploads/
-| ├── uploads/
-│ ├── package.json
-│ └── ...
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── context/
-│ │ ├── pages/
-│ │ └── ...
-│ ├── package.json
-│ └── vite.config.js
-│
-└── README.md
-
-yaml
-Copiar código
-
----
-
 ## ⚙️ Como Rodar o Projeto
 
 ### 🔹 1. Clonar o repositório
@@ -61,18 +35,18 @@ cd planettech-chat
 🔹 2. Instalar dependências
 Frontend:
 bash
-Copiar código
+
 cd frontend
 npm install
 Backend:
 bash
-Copiar código
+
 cd backend
 npm install
 🔹 3. Executar o projeto
 Iniciar o servidor (Backend)
 bash
-Copiar código
+
 cd backend
 npm run dev
 O backend será executado em:
@@ -80,13 +54,16 @@ O backend será executado em:
 
 Iniciar o cliente (Frontend)
 bash
-Copiar código
+
 cd frontend
 npm run dev
 O frontend será executado em:
 💻 http://localhost:5173
 
-🧠 Funcionalidades
+```
+
+### 🧠 Funcionalidades
+
 ✅ Autenticação simples via localStorage
 ✅ Envio de mensagens de texto
 ✅ Upload de imagens (JPG, PNG)
@@ -110,8 +87,3 @@ Desenvolvedor Front-end
 📝 Licença
 Este projeto é de uso livre para fins de estudo e demonstração de habilidades técnicas.
 © 2025 - Desenvolvido por Simon Franklin
-
-yaml
-Copiar código
-
-
